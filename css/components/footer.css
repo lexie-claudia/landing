@@ -1,0 +1,23 @@
+.footer{
+  background-color: black;
+  text-align: center;
+  padding: 60px;
+
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1edd87;
+  margin: 0px 5px;
+}
+
+
+.footer p {
+  font-size: 15px;
+  color: lightgrey;
+  margin: 0px 5px;
+}
+
+.footer .far {
+  color: red;
+}
